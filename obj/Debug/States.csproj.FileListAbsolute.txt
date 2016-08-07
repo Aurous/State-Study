@@ -1,0 +1,10 @@
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\bin\Debug\States.exe
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\bin\Debug\States.pdb
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.csprojResolveAssemblyReference.cache
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.Form1.resources
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.Form2.resources
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.Form3.resources
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.Properties.Resources.resources
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.csproj.GenerateResource.Cache
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.exe
+C:\Users\ltrya\Documents\GitHub\States-Study-C#\States\obj\Debug\States.pdb
